@@ -1,0 +1,28 @@
+.form_container {
+    margin-bottom: 40px;
+    max-width: 1200px;
+
+    padding: 24px;
+}
+
+
+.custom_form {
+    width: 100%;
+    height: 65px;
+
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.form_input {
+
+    width: 100%;
+    max-width: 950px;
+}
+
+.form_btn {
+    max-width: 150px;
+    width: 100%;
+    height: 56px;
+}

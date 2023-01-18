@@ -1,0 +1,16 @@
+.card_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card_content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.card_avatar {
+    width: 100px!important;
+    height: 100px!important;
+}

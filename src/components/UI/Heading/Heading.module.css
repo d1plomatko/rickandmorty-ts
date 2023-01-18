@@ -1,0 +1,6 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    margin: 110px 0 40px 0!important;
+    font-family: Rowdies, sans-serif!important;
+}

@@ -1,0 +1,29 @@
+.link_wrapper {
+    margin-left: auto;
+
+    display: flex;
+    gap: 10px
+}
+
+.link {
+    text-decoration: none;
+    text-transform: uppercase;
+    /*font-weight: bolder;*/
+    color: #fff;
+
+    padding-bottom: 2px;
+
+    opacity: 0.8;
+    transition: all .2s linear;
+}
+
+
+
+.link:hover {
+    opacity: 1!important;
+}
+
+.link a[class="active"] {
+    opacity: 1;
+    color: blue;
+}

@@ -1,0 +1,10 @@
+.container {
+    display: flex!important;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.table_wrapper {
+    width: 100%;
+    max-width: 800px;
+}
