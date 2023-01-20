@@ -1,6 +1,7 @@
 import {FC, ReactNode} from "react";
 import {Accordion, AccordionDetails, AccordionSummary} from "@mui/material";
 
+
 interface IProps {
     children: ReactNode,
     name: string,

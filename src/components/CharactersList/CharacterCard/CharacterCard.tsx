@@ -32,7 +32,7 @@ const CharacterCard:FC<IProps> = ({character}) => {
 
                     <CardContent>
 
-                        <Typography gutterBottom variant="h5" component="div" sx={{height: 60}}>
+                        <Typography gutterBottom variant="h5" component="div" sx={{height: 60}} lineHeight={1}>
                             {character.name}
                         </Typography>
 

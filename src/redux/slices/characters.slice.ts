@@ -5,6 +5,7 @@ import {charactersService, ICharacterParams} from "../../services";
 import {IApi, ICharacter} from "../../interfaces";
 
 
+
 interface IState {
     characters: ICharacter[],
     totalPages: number,
